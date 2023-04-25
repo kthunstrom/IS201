@@ -1,0 +1,64 @@
+
+body{
+    /* font-size: 70px; */
+    color: black;
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1{
+    text-align: left;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    padding: 15px;
+    
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: black;
+
+}
+
+h5{
+    font-size: larger;
+    text-decoration: underline;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+p{ 
+    color: black;
+}
+
+a:visited {
+    color: rgb(37, 168, 37)
+}
+a:hover{
+    color:rgb(20, 82, 20)
+}
+
+div{
+    position: static;
+    border: 3px solid #174d0b;
+}
+
+.bold{ 
+    font-weight: bold;
+}
+
+li{
+    font-weight: normal;
+}
+
+
